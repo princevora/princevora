@@ -10,19 +10,18 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=floyare.floyare&left_color=black&right_color=%237F3ACE">
 
 ## Roadmap
-- :heavy_check_mark: <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5&logoColor=7F3ACE">
-- :heavy_check_mark: <img src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=7F3ACE">
-- :heavy_check_mark: <img src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript&logoColor=7F3ACE">
-- :heavy_check_mark: <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=7F3ACE">
-- :heavy_check_mark: <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=7F3ACE">
-- :large_orange_diamond: <img src="https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro&logoColor=7F3ACE">
-<!-- - :x: <img src="https://img.shields.io/badge/-Nuxt.js-000000?style=flat-square&logo=nuxtdotjs&logoColor=7F3ACE"> -->
+- :heavy_check_mark: <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5">
+- :heavy_check_mark: <img src="https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=laravel&logoColor=white">
+- :heavy_check_mark: <img src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=blue">
+- :heavy_check_mark: <img src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript">
+- :heavy_check_mark: <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react">
+- :heavy_check_mark: <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs">
 
 <div style="display: inline-block;">
 <img src="https://i.ibb.co/wwq451W/JUSTSTYLES-LOGO-NEW-500.png" style="height: 50px;">
 </div>
 <!--
-**floyare/floyare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**princevora/princevora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
