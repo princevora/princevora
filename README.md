@@ -16,9 +16,6 @@
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php">
 
-<div style="display: inline-block;">
-<img src="https://i.ibb.co/wwq451W/JUSTSTYLES-LOGO-NEW-500.png" style="height: 50px;">
-</div>
 <!--
 **princevora/princevora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
