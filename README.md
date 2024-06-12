@@ -11,7 +11,7 @@
 
 ## Roadmap
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5">
-- :heavy_check_mark: <img src="https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=laravel&logoColor=white">
+- :heavy_check_mark: <img src="https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=laravel&logoColor=white&color=red">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=blue">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react">
