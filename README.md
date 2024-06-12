@@ -4,10 +4,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princevora&langs_count=5&theme=midnight-purple" style="height: 200px;">
 </div>
 
-<a href="https://discord.com/"><img src="https://img.shields.io/badge/-floyare%231186-000000?style=flat-square&logo=discord&logoColor=7F3ACE"></a>
-<a href="https://steamcommunity.com/id/floyarestyles/"><img src="https://img.shields.io/badge/-funnע-000000?style=flat-square&logo=steam&logoColor=7F3ACE"></a>
-<a href="https://www.youtube.com/channel/UCdRj56rXHKHF40T0Of36s3A"><img src="https://img.shields.io/badge/-floyare-000000?style=flat-square&logo=youtube&logoColor=7F3ACE"></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=floyare.floyare&left_color=black&right_color=%237F3ACE">
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/-princevora%231186-000000?style=flat-square&logo=discord&logoColor=7F3ACE"></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=princevora&left_color=black&right_color=%237F3ACE">
 
 ## Roadmap
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5">
@@ -16,6 +14,7 @@
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs">
+- :heavy_check_mark: <img src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php">
 
 <div style="display: inline-block;">
 <img src="https://i.ibb.co/wwq451W/JUSTSTYLES-LOGO-NEW-500.png" style="height: 50px;">
