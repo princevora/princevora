@@ -16,6 +16,7 @@
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=laravel&logoColor=FF2D20&labelColor">
 
+<!--
 **princevora/princevora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
