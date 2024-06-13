@@ -17,8 +17,8 @@
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=laravel&logoColor=FF2D20&labelColor">
 
 <div style="display: inline-block">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=princevora&repo=next-ftp&theme=dark" style="height: 150px; max-width: 150px">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=princevora&repo=lara-poll&theme=dark" style="height: 150px; max-width: 150px">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=princevora&repo=next-ftp&theme=dark" style="height: 150px">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=princevora&repo=next-chat-app&theme=dark" style="height: 150px">
 </div>
 <!--
 **princevora/princevora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
