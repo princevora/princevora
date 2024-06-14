@@ -7,7 +7,7 @@
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/-mpe_hunter-000000?style=flat-square&logo=discord&logoColor=7F3ACE"></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=princevora&left_color=black&right_color=%237F3ACE">
 
-## Roadmap
+## Skills
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=blue">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript">
