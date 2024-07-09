@@ -4,6 +4,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princevora&langs_count=5" style="height: 200px;">
 </div>
 
+## Github Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=princevorano-bg=true&no-frame=true&column=7&row=1)
+
 ## Skills
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=blue">
