@@ -5,7 +5,7 @@
 </div>
 
 ## Github Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=princevora&no-bg=true&no-frame=true&column=7&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=princevora&no-frame=true&column=7&row=1)
 
 ## Skills
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5">
