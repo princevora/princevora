@@ -1,6 +1,6 @@
 # <img src="https://i.ibb.co/ZWt8y9b/fomlahault.png" style="width: 50px"> Frontend And Backend Dev
 <div style=" display: inline-block">
-<img src="https://github-readme-stats.vercel.app/api?username=princevora&&show_icons=true" style="height: 200px;">
+<img src="https://github-readme-stats-blond-nine-67.vercel.app/api?username=princevora&&show_icons=true" style="height: 200px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princevora&langs_count=5" style="height: 200px;">
 </div>
 
