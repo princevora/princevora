@@ -15,4 +15,4 @@
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=laravel&logoColor=FF2D20&labelColor">
-- :heavy_check_mark: <img src="https://img.shields.io/badge/-Svele-000?style=flat-square&logo=svelte&logoColor=FF2D20&labelColor">
+- :heavy_check_mark: <img src="https://img.shields.io/badge/-Svelte-000?style=flat-square&logo=svelte&logoColor=FF2D20&labelColor">
