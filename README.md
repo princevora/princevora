@@ -1,5 +1,5 @@
 # <img src="https://i.ibb.co/ZWt8y9b/fomlahault.png" style="width: 50px"> Frontend And Backend Dev
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=princevora&theme=react&show_icons=true&hide_border=true&count_private=true" style="height: 200px;">
