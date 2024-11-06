@@ -1,12 +1,19 @@
 # <img src="https://i.ibb.co/ZWt8y9b/fomlahault.png" style="width: 50px"> Frontend And Backend Dev
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=princevora&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princevora&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="height: 200px;">
-</div>
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princevora&theme=vue-dark&hide_border=true" style="height: 200px;">
-</div>
-
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=princevora&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="height: 200px;">
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princevora&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="height: 200px;">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none; text-align: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=princevora&theme=vue-dark&hide_border=true" style="height: 200px;">
+    </td>
+  </tr>
+</table>
 
 
 ## Github Trophies
