@@ -8,11 +8,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princevora&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="height: 200px;">
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=princevora&theme=vue-dark&hide_border=true" style="height: 200px;">
-    </td>
-  </tr>
 </table>
 
 
