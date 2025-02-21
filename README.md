@@ -8,7 +8,6 @@ I am a passionate **Full-Stack Developer** specializing in **Laravel, React, Nod
 - 🌱 I’m currently learning **advanced Laravel, React, and API development**.
 - 🔥 Passionate about **building scalable web applications**.
 - 💡 Exploring **UI/UX design** for modern and sleek user experiences.
-- 📫 How to reach me: **[Your Email or Social Media Link]**
 
 ---
 
