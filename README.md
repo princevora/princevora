@@ -57,7 +57,7 @@ I am a passionate **Full-Stack Developer** specializing in **Laravel, React, Nod
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princevora&theme=radical&hide_border=true" alt="Profile Details" width="49%">
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princevora&theme=dark&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princevora&theme=github-compact&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 ---
