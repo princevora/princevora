@@ -65,7 +65,7 @@ I am a passionate **Full-Stack Developer** specializing in **Laravel, React, Nod
 ### 📢 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prince-vora-872790273/" target="_blank">
+  <a href="https://www.linkedin.com/in/princevora/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.upwork.com/freelancers/~01ea409b4d62554065" target="_blank">
