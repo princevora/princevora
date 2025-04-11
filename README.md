@@ -1,4 +1,13 @@
-## Hi there, I'm Prince Vora! 👋
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2>👋 Hi there, I'm Prince Vora!</h2>
+  <div>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=PrinceVora.PrinceVora&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Backend-Developer-blue?style=flat-square" alt="Backend Developer" />
+    <img src="https://img.shields.io/badge/Laravel-Expert-red?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/API%20Specialist-Node.js-green?style=flat-square&logo=node.js&logoColor=white" alt="API Specialist" />
+  </div>
+</div>
 
 ---
 
