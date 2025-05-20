@@ -31,12 +31,6 @@ I am a passionate **Full-Stack Developer** specializing in **Laravel, React, Nod
 
 #### **Languages & Frameworks**
 
-#### **Databases & Tools**
-
-Below are updated badge images using reliable sources for better visibility and consistency.
-
-#### **Languages & Frameworks**
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,bootstrap,tailwind,nextjs,materialui,php,java,javascript" />
 </p>
@@ -44,9 +38,14 @@ Below are updated badge images using reliable sources for better visibility and 
 #### **Databases & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,github,git,vscode,xampp" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,github,git,vscode,docker,ubuntu,windows" />
 </p>
 
+#### **DevOps & Deployment**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,vercel" />
+</p>
 ---
 
 ### 📊 GitHub Stats
