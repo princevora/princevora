@@ -32,13 +32,13 @@ I am a passionate **Full-Stack Developer** specializing in **Laravel, React, Nod
 #### **Languages & Frameworks**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,bootstrap,tailwind,nextjs,materialui,php,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=laravel,alpinejs,react,nodejs,bootstrap,tailwind,nextjs,materialui,php,java,javascript" />
 </p>
 
 #### **Databases & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,github,git,vscode,docker,ubuntu,windows" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,github,git,vscode,docker,ubuntu,windows,vscode" />
 </p>
 
 #### **DevOps & Deployment**
