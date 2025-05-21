@@ -46,7 +46,6 @@ I am a passionate **Full-Stack Developer** specializing in **Laravel, React, Nod
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,nginx,vercel" />
 </p>
----
 
 ### 📊 GitHub Stats
 <p align="center">
