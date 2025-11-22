@@ -32,7 +32,7 @@ I am a passionate **Full-Stack Developer** specializing in **Laravel, React, Nod
 #### **Languages & Frameworks**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,alpinejs,react,nodejs,bootstrap,tailwind,nextjs,materialui,php,java,javascript,jquery,html,css" />
+  <img src="https://skillicons.dev/icons?i=go,laravel,alpinejs,react,nodejs,bootstrap,tailwind,nextjs,materialui,php,java,javascript,jquery,html,css" />
 </p>
 
 #### **Databases & Tools**
