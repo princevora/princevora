@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;"> 
   <h2>👋 Hi there, I'm Prince Vora!</h2>
   <div>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=PrinceVora.PrinceVora&style=flat-square" alt="Profile Views" />
