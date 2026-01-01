@@ -8,9 +8,7 @@
     <img src="https://img.shields.io/badge/API%20Specialist-Node.js-green?style=flat-square&logo=node.js&logoColor=white" alt="API Specialist" />
   </div>
 </div>
-
 ---
-
 ### 🚀 About Me
 I am a passionate **Full-Stack Developer** specializing in **Laravel, React, Node.js, and WordPress**. Currently, I'm working on various web applications, APIs, and subscription-based platforms.
 
@@ -61,7 +59,6 @@ I am a passionate **Full-Stack Developer** specializing in **Laravel, React, Nod
 </p>
 
 ---
-
 ### 📢 Connect with Me
 
 <p align="center">
@@ -78,5 +75,4 @@ I am a passionate **Full-Stack Developer** specializing in **Laravel, React, Nod
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer">
   </a>
 </p>
-
 Feel free to check out my projects and contribute! 🚀
