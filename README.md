@@ -36,7 +36,7 @@ I am a passionate **Full-Stack Developer** specializing in **Laravel, React, Nod
 #### **Databases & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,github,git,vscode,docker,ubuntu,windows,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,github,git,vscode,docker,ubuntu,windows" />
 </p>
 
 #### **DevOps & Deployment**
@@ -62,16 +62,16 @@ I am a passionate **Full-Stack Developer** specializing in **Laravel, React, Nod
 ### 📢 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/princevora/" target="_blank">
+  <a href="https://www.linkedin.com/in/princevora/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.upwork.com/freelancers/~01ea409b4d62554065" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01ea409b4d62554065" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
   </a>
-  <a href="https://kwork.com/user/princevora03" target="_blank">
+  <a href="https://kwork.com/user/princevora03" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kwork-FFB318?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork">
   </a>
-  <a href="https://www.freelancer.com/u/PrinceVora03" target="_blank">
+  <a href="https://www.freelancer.com/u/PrinceVora03" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer">
   </a>
 </p>
