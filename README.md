@@ -49,6 +49,7 @@ open_to: Freelance projects, collaborations, full-time roles
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=princevora&theme=github_dark&no-frame=true&margin-w=15&margin-h=15" alt="PrinceVora's GitHub Trophies" />
 </div>
+
 ---
 
 ## 🛠️ Tech Stack
