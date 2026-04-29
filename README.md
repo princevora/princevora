@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- Animated Header Wave — Deep dark blue palette -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,60:1a1a2e,100:16213e&height=220&section=header&text=Prince%20Vora&fontSize=52&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=⚡%20Full-Stack%20Developer%20%7C%20Laravel%20·%20React%20·%20Node.js&descAlignY=58&descSize=17&descColor=7eb8d4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,30:2b0000,60:5c0000,100:8b0000&height=220&section=header&text=Prince%20Vora&fontSize=52&fontColor=ff4d4d&animation=twinkling&fontAlignY=35&desc=⚡%20Full-Stack%20Developer%20%7C%20Laravel%20·%20React%20·%20Node.js&descAlignY=58&descSize=17&descColor=ff9999" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Node.js+Craftsman;Building+Scalable+SaaS+Platforms;API+Architect+%26+Integration+Specialist;Open+to+Freelance+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=B22222&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Node.js+Craftsman;Building+Scalable+SaaS+Platforms;API+Architect+%26+Integration+Specialist;Open+to+Freelance+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=princevora&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=princevora&label=Profile%20Views&color=ff4d4d&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/princevora?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1b2a" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/princevora?label=Followers&style=for-the-badge&color=ff4d4d&labelColor=2b0000" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-00ff88?style=for-the-badge&labelColor=0d1b2a" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-cc0000?style=for-the-badge&labelColor=2b0000" />
 </p>
 
 </div>
