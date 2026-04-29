@@ -72,24 +72,13 @@ open_to: Freelance projects, collaborations, full-time roles
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princevora&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=7eb8d4" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princevora&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=7eb8d4" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=princevora&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=7eb8d4&dates=7eb8d4&currStreakNum=ffffff&sideNums=ffffff" width="68%" alt="GitHub Streak" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=princevora&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0000&title_color=ff4d4d&icon_color=ff4d4d&text_color=ffb3b3" height="180" alt="GitHub Stats" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princevora&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d0000&title_color=ff4d4d&text_color=ffb3b3" height="180" alt="Top Languages" /> </div> <div align="center"> <br/> </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princevora&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" width="95%" alt="GitHub Activity Graph" />
-</div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=princevora&bg_color=0d0000&color=ff4d4d&line=ff4d4d&point=ffffff&area=true&area_color=8b0000&hide_border=true" width="95%" alt="GitHub Activity Graph" /> </div>
 
 ---
 
@@ -97,13 +86,13 @@ open_to: Freelance projects, collaborations, full-time roles
 
 <div align="center">
 
-| 🔴 SaaS Platforms | 🟢 REST APIs | 🔵 WordPress |
-|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Laravel%20+%20Stripe-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![](https://img.shields.io/badge/Node.js%20/%20Laravel-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![](https://img.shields.io/badge/Custom%20Themes-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
-| Subscription billing, roles & multi-tenancy | Scalable, documented APIs with auth | Custom WP solutions for business |
-| **🟣 React Apps** | **🟡 Integrations** | **🐳 DevOps** |
-| ![](https://img.shields.io/badge/SPAs%20%26%20Dashboards-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![](https://img.shields.io/badge/API%20Integrations-8B5CF6?style=for-the-badge&logo=zapier&logoColor=white) | ![](https://img.shields.io/badge/Docker%20%26%20Linux-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| Dynamic frontends with great UX | Payment gateways, CRMs, OAuth & more | Deployment, containerization & config |
+|                                                 🔴 SaaS Platforms                                                 |                                                     🔴 REST APIs                                                    |                                                   🔴 WordPress                                                  |
+| :---------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+|  ![](https://img.shields.io/badge/Laravel%20+%20Stripe-8B0000?style=for-the-badge\&logo=laravel\&logoColor=white) | ![](https://img.shields.io/badge/Node.js%20/%20Laravel-8B0000?style=for-the-badge\&logo=nodedotjs\&logoColor=white) |  ![](https://img.shields.io/badge/Custom%20Themes-8B0000?style=for-the-badge\&logo=wordpress\&logoColor=white)  |
+|                                    Subscription billing, roles & multi-tenancy                                    |                                         Scalable, documented APIs with auth                                         |                                         Custom WP solutions for business                                        |
+|                                                 **🔴 React Apps**                                                 |                                                 **🔴 Integrations**                                                 |                                                  **🔴 DevOps**                                                  |
+| ![](https://img.shields.io/badge/SPAs%20%26%20Dashboards-8B0000?style=for-the-badge\&logo=react\&logoColor=white) |    ![](https://img.shields.io/badge/API%20Integrations-8B0000?style=for-the-badge\&logo=zapier\&logoColor=white)    | ![](https://img.shields.io/badge/Docker%20%26%20Linux-8B0000?style=for-the-badge\&logo=docker\&logoColor=white) |
+|                                          Dynamic frontends with great UX                                          |                                         Payment gateways, CRMs, OAuth & more                                        |                                      Deployment, containerization & config                                      |
 
 </div>
 
@@ -111,19 +100,7 @@ open_to: Freelance projects, collaborations, full-time roles
 
 ## 💼 Hire Me On
 
-<div align="center">
-  <a href="https://www.upwork.com/freelancers/~01ea409b4d62554065" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.freelancer.com/u/PrinceVora03" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://kwork.com/user/princevora03" target="_blank">
-    <img src="https://img.shields.io/badge/Kwork-FFB318?style=for-the-badge&logoColor=white" />
-  </a>
-</div>
+<div align="center"> <a href="https://www.upwork.com/freelancers/~01ea409b4d62554065" target="_blank"> <img src="https://img.shields.io/badge/Upwork-8B0000?style=for-the-badge&logo=upwork&logoColor=white" /> </a> &nbsp; <a href="https://www.freelancer.com/u/PrinceVora03" target="_blank"> <img src="https://img.shields.io/badge/Freelancer-8B0000?style=for-the-badge&logo=freelancer&logoColor=white" /> </a> &nbsp; <a href="https://kwork.com/user/princevora03" target="_blank"> <img src="https://img.shields.io/badge/Kwork-8B0000?style=for-the-badge&logoColor=white" /> </a> </div>
 
 ---
 
@@ -146,10 +123,5 @@ open_to: Freelance projects, collaborations, full-time roles
 ---
 
 <!-- Footer Wave — mirrored dark palette -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,40:1a1a2e,70:0d1b2a,100:0a0a0f&height=120&section=footer" />
-</div>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,40:5c0000,70:2b0000,100:0a0000&height=120&section=footer" /> </div> <div align="center"> <sub>⚡ <i>"First, solve the problem. Then, write the code."</i> — John Johnson</sub> </div>
 
-<div align="center">
-  <sub>⚡ <i>"First, solve the problem. Then, write the code."</i> — John Johnson</sub>
-</div>
